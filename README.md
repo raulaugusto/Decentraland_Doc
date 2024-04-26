@@ -12,7 +12,8 @@
 
 ## Importando um modelo 3D:
 
-Baixe um modelo demo aqui [Aqui](https://github.com).
+Baixe um modelo demo aqui [Aqui](https://github.com/raulaugusto/Decentraland_Doc/releases/download/model/avocado.glb).
 <p>Os modelos devem estar em formato .glb ou .gltf</p>
 <p>Na pasta do projeto criado, crie uma pasta 'models' e coloque o arquivo baixado nela.</p>
 
+![Image Alt Text](images/ImportandoModelo.jpg)
