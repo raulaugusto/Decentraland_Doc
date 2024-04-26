@@ -2,5 +2,17 @@
 
 ## Instalando a extensão no VSCODE:
 
-Na aba de extensões do vscode busque por "Decentraland" e instale o "Decentraland Editor SDK7".
+<p>Na aba de extensões do vscode busque por "Decentraland" e instale o "Decentraland Editor SDK7".</p>
+<p>Após a instalação, reinicie o vscode.</p>
+
+<p align="center">
+  <img src="images/BuscandoExtensão.jpg" width="300" />
+  <img src="images/InstalandoExtensão.jpg" width="700" /> 
+</p>
+
+## Importando um modelo 3D:
+
+Baixe um modelo demo aqui [Aqui](https://github.com).
+<p>Os modelos devem estar em formato .glb ou .gltf</p>
+<p>Na pasta do projeto criado, crie uma pasta 'models' e coloque o arquivo baixado nela.</p>
 
