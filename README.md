@@ -1,5 +1,7 @@
 # Setup básico da Decentraland SDK
 
+![Image Alt Text](images/Demonstração.gif)
+
 ## Instalando a extensão no VSCODE:
 
 <p>Na aba de extensões do vscode busque por "Decentraland" e instale o "Decentraland Editor SDK7".</p>
@@ -36,4 +38,15 @@ Então você verá algo parecido com essa cena:
 ### Vamos fazer com que ao clicar na entidade principal, uma cópia menor dela seja criada ao lado, e que ao clicar a cópia ela seja removida após uma animação
 
 Adicione o seguinte código à função main para adicionar o evento de clique à entidade principal:
+
+![Image Alt Text](images/AdicionandoEvento1.jpg)
+
+Agora, dentro da função de pointerDown criada anteriormente, adicione o seguinte código para implementar a interação com a nova entidade criada:
+
+![Image Alt Text](images/AdicionandoEvento2.jpg)
+
+
+# Resultado Final:
+
+![Image Alt Text](images/Demonstração.gif)
 
