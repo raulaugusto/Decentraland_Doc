@@ -1,5 +1,7 @@
 # Setup básico da Decentraland SDK
 
+### O código completo está disponível no repositório!
+
 ![Image Alt Text](images/Demonstração.gif)
 
 ## Instalando a extensão no VSCODE:
